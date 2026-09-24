@@ -1,2 +1,1 @@
-# endrewsouza.github.io
-Teste de HTML e CSS 
+Teste de um site para uma loja de autopeças em Manaus
